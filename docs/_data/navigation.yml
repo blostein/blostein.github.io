@@ -1,5 +1,5 @@
 - title: About
-  url: /about.md
+  url: about.md
 - title: Team
   url: /team.html
   sublinks:
@@ -13,8 +13,8 @@
   url: /Resarch.html
   sublinks:
     - title: Epigenomics
-      url: /Epigenomics.md
+      url: /Research/Epigenomics.md
     - title: Microbiome
-      url: /Microbiome.md
+      url: /Research/Microbiome.md
     - title: Research Statement
-      url: /Research_Statement.md
+      url: /Research/Research_Statement.md
