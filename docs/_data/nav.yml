@@ -1,5 +1,8 @@
-- title: "Home"
-  href: "/"
+- title: "About"
+  href: "/About/"
+  subcategories:
+    - subtitles: "Lola"
+      subhref: "/About/Lola"
 
 - title: "Teaching"
   href: "/Teaching/"
@@ -7,8 +10,8 @@
 - title: "Research"
   subcategories:
     - subtitle: "Epigenomics"
-      subhref: "Epigenomics"
-    - subtitle: "Microbiome"
+      subhref: "Research/epigenomics"
+    - subtitle: "Research/Microbiome"
       subhref: "Microbiome"
     - subtitle: "CV"
-      subhref: "CV"
+      subhref: "Research/CV"
