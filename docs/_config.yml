@@ -26,7 +26,7 @@ header_pages:
   - About/index.md
   - Research/index.md
   - Teaching/index.md
-
+  - Outreach/index.md
 # Build settings
 markdown: kramdown
 theme: minima
