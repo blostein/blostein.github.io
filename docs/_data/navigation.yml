@@ -1,22 +1,20 @@
- title: About
-  url: /about.html
-- title: Research
-  url: /research.html
-  sublinks:
-    -title: Epigenomics
-    url: /Epigenomics.md
-    -title: Microbiome
-    url: /Microbiome.md
-    -title Research Statement
-    url: /Research_Statement.md
-- title: Teaching
-  url: /Teaching.md
-- title: Outreach
-  url: /Outreach.md
+- title: About
+  url: /about.md
 - title: Team
-  url: /Team.md
+  url: /team.html
   sublinks:
-    - title: Collaborators & mentors
-      url: /collab.md
-    - title: Team at home
-      url: /Lola.md
+     - title: Lola
+     url: /Lola.md
+- title: Teaching
+  url: /contact.html
+- title: Outreach
+  url: /outreach.md
+- title: Research
+  url: /Resarch.html
+  sublinks:
+    - title: Epigenomics
+      url: /Epigenomics.md
+    - title: Microbiome
+      url: /Microbiome.md
+    - title: Research Statement
+      url: /Research_Statement.md
