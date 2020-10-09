@@ -1,3 +1,5 @@
+- name: Home
+  link: /
 - title: About
   url: index.md
 - title: Team
