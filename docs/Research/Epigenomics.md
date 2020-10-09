@@ -1,1 +1,5 @@
-put epigenome here
+---
+layout: page
+title: Epigenomics
+permalink: /research/Epigenomics
+---

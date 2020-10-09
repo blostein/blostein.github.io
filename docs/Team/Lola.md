@@ -1,1 +1,5 @@
-put lola here
+---
+layout: page
+title: Lola
+permalink: /Team/Lola
+---
