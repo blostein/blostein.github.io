@@ -10,8 +10,8 @@
 - title: "Research"
   subcategories:
     - subtitle: "Epigenomics"
-      subhref: "Research/epigenomics"
-    - subtitle: "Research/Microbiome"
-      subhref: "Microbiome"
-    - subtitle: "CV"
-      subhref: "Research/CV"
+      subhref: "/Research/epigenomics"
+    - subtitle: "/Research/Microbiome"
+      subhref: "/Microbiome"
+    - subtitle: "/CV"
+      subhref: "/Research/CV"

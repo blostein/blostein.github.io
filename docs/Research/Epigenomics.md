@@ -1,5 +1,5 @@
 ---
-layout: layer2default
+layout: researchdefault
 title: Epigenomics
 permalink: /Research/epigenomics
 navigation_weight: 2
