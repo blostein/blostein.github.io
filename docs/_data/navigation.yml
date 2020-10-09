@@ -3,8 +3,8 @@
 - title: Team
   url: /team.html
   sublinks:
-     - title: Lola
-     url: /Lola.md
+    - title: Lola
+      url: /Lola.md
 - title: Teaching
   url: /contact.html
 - title: Outreach
