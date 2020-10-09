@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: researchdefault
 title: Research
 permalink: /Research/
 navigation_weight: 1
