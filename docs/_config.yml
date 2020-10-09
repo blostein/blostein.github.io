@@ -23,7 +23,7 @@ twitter_username: freidablostein
 github_username:  blostein
 
 header_pages: 
-  - about.md
+  - About/index.md
   - Research/index.md
   - Teaching/index.md
 

@@ -1,0 +1,14 @@
+- title: "Home"
+  href: "/"
+
+- title: "Teaching"
+  href: "/Teaching/"
+
+- title: "Research"
+  subcategories:
+    - subtitle: "Epigenomics"
+      subhref: "Epigenomics"
+    - subtitle: "Microbiome"
+      subhref: "Microbiome"
+    - subtitle: "CV"
+      subhref: "CV"
