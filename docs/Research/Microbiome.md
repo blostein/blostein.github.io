@@ -4,4 +4,7 @@ title: "Microbiome"
 permalink: /Research/Microbiome
 navigation_weight: 2
 ---
- {%- include head.html -%}
+
+# 16S Amplicon Taxonomic Surveys 
+
+# Whole genome shotgun metagenomics 
