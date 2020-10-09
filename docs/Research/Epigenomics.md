@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Epigenomics
-permalink: /research/Epigenomics
+permalink: /Research/Epigenomics.md
 ---
