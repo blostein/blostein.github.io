@@ -1,5 +1,5 @@
 ---
-layout: layer2default
+layout: page
 title: Research
 permalink: /Research/
 navigation_weight: 1
