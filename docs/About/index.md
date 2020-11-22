@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-css: "style.css"
 permalink: /About/
 ---
 
