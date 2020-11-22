@@ -6,8 +6,7 @@ navigation_weight: 2
 ---
 {: style="text-align: right" }
 # Freida Blostein 
-{: style="text-align: right" }
-*Curriculum vitae*
+{: style="text-align: right" } *Curriculum vitae*
 
 ## Education
 **Doctorate of Philosophy** University of Michigan, Ann Arbor, MI. 2018-Current. Epidemiologic science.
@@ -16,7 +15,7 @@ navigation_weight: 2
 **Masters of Public Health** University of Michigan, Ann Arbor, MI. 2016-2018. Epidemiology; GPA – 4.00
 
 
-**Bachelors of Science** University of Michigan, Ann Arbor, MI. 2012-2016. Major: Evolutionary Anthropology | Minor: Applied Statistics; GPA – 3.99
+**Bachelors of Science** University of Michigan, Ann Arbor, MI. 2012-2016. Major: Evolutionary Anthropology; Minor: Applied Statistics; GPA – 3.99
 
 
 ## Teaching
