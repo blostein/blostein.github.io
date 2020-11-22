@@ -9,7 +9,8 @@ navigation_weight: 2
 ---
 {: style="text-align: right" }
 # Freida Blostein 
-{: style="text-align: right" } *Curriculum vitae*
+{: style="text-align: right" }
+*Curriculum vitae*
 
 ## Education
 **Doctorate of Philosophy** University of Michigan, Ann Arbor, MI. 2018-Current. Epidemiologic science.
@@ -69,5 +70,5 @@ Provided classroom assistance in a freshman writing course of approximately 25 s
 **2012** Sydney J and Irene Shipman Scholarship Awardee: 100% tuition, room and board for four years of undergraduate study 
 
 ## Publications
-
+@Blostein2020
 	   
