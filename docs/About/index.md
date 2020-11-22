@@ -6,7 +6,7 @@ permalink: /About/
 ---
 <link href="style.css" rel="stylesheet">
 
-<p align="center">
+<p align="right">
 <div class="image-cropper">
   <img src="../assets/images/blostein_freida.jpg" alt="avatar" class="profile-pic">
 </div>
