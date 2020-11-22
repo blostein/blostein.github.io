@@ -9,4 +9,4 @@ I'm a PhD candidate in Epidemiologic Science at the University of Michigan. My w
 
 My doctoral training has included work in epidemiology, statistical genetics, and bioinformatics. 
 
-<img align='right' src="../assets/images/aboutimg.png">
+<img align='right' src="/assets/images/aboutimg.png">
