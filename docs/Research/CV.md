@@ -5,10 +5,10 @@ permalink: /Research/CV
 navigation_weight: 2
 ---
 {: style="text-align: right" }
-## Freida Blostein 
+# Freida Blostein 
 Curriculum vitae
 
-# Education
+## Education
 Doctorate of Philosophy. University of Michigan, Ann Arbor, MI. 2018-Current
 Epidemiologic science
 Masters of Public Health. University of Michigan, Ann Arbor, MI. 2016-2018
@@ -16,7 +16,7 @@ Epidemiology; GPA – 4.00
 Bachelors of Science. University of Michigan, Ann Arbor, MI. 2012-2016
 Major: Evolutionary Anthropology | Minor: Applied Statistics; GPA – 3.99
 
-# Employment
+## Employment
 Research Assistant; University of Michigan, School of Public Health, Bakulski Lab, Ann Arbor, MI. Ongoing. 
 Conducts research on prenatal exposures impact on DNA methylation in childhood using saliva samples from the longitudinal Fragile Families and Child Wellbeing cohort. 
 Research Assistant; University of Michigan, School of Public Health, Foxman Lab, Ann Arbor, MI. Ongoing. 
@@ -38,7 +38,7 @@ Research Assistant; University of Michigan Department of Political Science, Ann 
 Investigated and coded extensive fiscal information on stock market fluctuations in 
 response to the Affordable Care and Patient Protection Act.
 
-# Teaching
+## Teaching
 Guest Lecturer Epidemiology 512: Biological Basis of Human Disease; University of Michigan School of Public Health, Ann Arbor, MI, 2020
 Created and presented a guest module on the role of microbes in gut physiology and pathophysiology to an audience of 50 Masters-level epidemiology students. 
 Teaching Assistant Epidemiology 708: Machine Learning for Epidemiological Analysis in the Era of Big Data; University of Michigan School of Public Health, Summer Session in Epidemiology, Ann Arbor, MI. 2020
