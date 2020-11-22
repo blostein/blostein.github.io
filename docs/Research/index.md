@@ -22,7 +22,7 @@ My doctoral training has incorporated courses in biostatistics, epidemiology and
 
 ## Current support
 
-F31 DE029992 ?Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries ? National Institute of Health; National Institute for Dental and Craniofacial Research. $35,128 per year for September 2020-May 2023
+F31 DE029992 "Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries" PI: Blostein, Freida. National Institute of Health; National Institute for Dental and Craniofacial Research. $35,128 per year for September 2020-May 2023
 
 ## Previous support 
 
