@@ -2,6 +2,9 @@
 layout: researchdefault
 title: CV
 permalink: /Research/CV
+bibliography: BlosteinCites.bib
+nocite: |
+	@Ramadugu2020, @Blostein2020, @Townsend2020, @Blostein2020a, @Collingwood2020, @Manohar2020, @Blostein2017, @Blostein2017a
 navigation_weight: 2
 ---
 {: style="text-align: right" }
@@ -16,7 +19,6 @@ navigation_weight: 2
 
 
 **Bachelors of Science** University of Michigan, Ann Arbor, MI. 2012-2016. Major: Evolutionary Anthropology; Minor: Applied Statistics; GPA – 3.99
-
 
 ## Teaching
 
