@@ -11,4 +11,4 @@ Some environmental exposures can be difficult to measure. For example, maternal 
 
 Investigations of cord blood and children's peripheral blood has demonstrated that DNA methylation in blood samples can serve as an accurate and reliable biomarker of exposure to prenatal maternal smoking. In my current research work, I explore if DNA methylation from saliva samples serve the same purpose, and provide an easily collectable biomarker of prenatal exposures.  
 
-<img src="../assets/smkepi.png" width="200">
+<img src="../assets/images/smkepi.png" width="200">
