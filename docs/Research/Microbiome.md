@@ -9,4 +9,4 @@ The advent of next-generation sequencing has revealed the ubiquity of the human 
 
 Oral microbes have long been understood to play a causal role in the development of dental decay, through the production of acid which erodes the enamel of the tooth surface. But although this story seems simple, the underlying ecology of the oral microbial community is complex. I use different data mining and dimension reduction techniques to summarize the oral microbial community and identify key players in the etiology of dental decay. By combining microbial data with human genetic data, sociodemographic questionairres, and information on modifiable exposures like diet, I'm working to understand the oral microbial community as a marker and mediator of dental decay. 
 
-<img src="/assets/toothmicro.png" width="200">
+<img src="../assets/images/toothmicro.png">
