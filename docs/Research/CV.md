@@ -19,8 +19,8 @@ output:
       - ["--lua-filter=myname.lua"]
 ---
 
-{: style="text-align: right" } \# Freida Blostein {: style="text-align:
-right" } \# *Curriculum vitae*
+{: style="text-align: right" } # Freida Blostein {: style="text-align:
+right" } # *Curriculum vitae*
 
 ## Education
 
