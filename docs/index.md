@@ -9,4 +9,6 @@ I'm a PhD candidate in Epidemiologic Science at the University of Michigan. My w
 
 My doctoral training has included work in epidemiology, statistical genetics, and bioinformatics. 
 
+[Download the pdf of my CV here](https://freidablostein.com/Research/CV.pdf)
+
 <img align="right" src="./assets/images/aboutimg.png">
