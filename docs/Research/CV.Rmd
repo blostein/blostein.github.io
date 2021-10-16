@@ -5,14 +5,14 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
-  html_document:
-    pandoc_args:
+  pdf_document:
+      pandoc_args:
       - ["--citeproc"]
       - ["--bibliography=BlosteinCites.bib"]
       - ["--csl=apa-cv"]
       - ["--lua-filter=myname.lua"]
-  pdf_document:
-      pandoc_args:
+  html_document:
+    pandoc_args:
       - ["--citeproc"]
       - ["--bibliography=BlosteinCites.bib"]
       - ["--csl=apa-cv"]
@@ -101,7 +101,7 @@ the Development of the Early-Life Oral Microbiome and its Influence on Early Chi
 
 **2018** Rackham Graduate School International Travel Grant
 
-**2018** T32 HG00040 Genome Science Training Program, "National Genome Research Institute of the National Institutes for Health""
+**2018** T32 HG00040 Genome Science Training Program, "National Genome Research Institute of the National Institutes for Health"
 September 2018 - August 2020
 
 **2016** Dean's Scholarship: 100% tuition for two years of graduate study, September 2016 - May 2018
@@ -130,6 +130,8 @@ Department of Epidemiology Poster Session
 ## Presentations
 
 ### Oral presentations
+
+October 2021 Polymethylation Scores for Prenatal Maternal Smoke Exposure Persist Until Age 15 and are Detected in Saliva. Poster/Lightening talk. Authors: Blostein, F., Fisher, J., Dou, J. Schenper, L., Notterman, D. A., Mitchell, C., Bakulski, K. M. 
 
 September 2020 Epidemiology: A career for the mathematically minded. University of Michigan Dearborn Undergraduate Mathematics Club. Authors: Blostein, F. 
 
