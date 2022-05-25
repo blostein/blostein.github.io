@@ -5,14 +5,14 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
-  pdf_document:
-      pandoc_args:
+  html_document:
+    pandoc_args:
       - ["--citeproc"]
       - ["--bibliography=BlosteinCites.bib"]
       - ["--csl=apa-cv"]
       - ["--lua-filter=myname.lua"]
-  html_document:
-    pandoc_args:
+  pdf_document:
+      pandoc_args:
       - ["--citeproc"]
       - ["--bibliography=BlosteinCites.bib"]
       - ["--csl=apa-cv"]
@@ -49,16 +49,15 @@ URL](noun_website_3977699.png){width="15px"}freidablostein.com](https://freidabl
 2018-Current. Epidemiologic science.
 
 **Masters of Public Health** University of Michigan, Ann Arbor, MI.
-2016-2018. Epidemiology; GPA -- 4.00
+2016-2018. Epidemiology.
 
 **Bachelors of Science** University of Michigan, Ann Arbor, MI.
-2012-2016. Major: Evolutionary Anthropology; Minor: Applied Statistics;
-GPA -- 3.99
+2012-2016. Major: Evolutionary Anthropology; Minor: Applied Statistics.
 
 ## Teaching
 
-**Guest Lecturer Epidemiology 582: Molecular epidemiology; University of
-Michigan School of Public Health, Ann Arbor, MI, 2021** Created and
+**Guest Lecturer Epidemiology 582: Molecular epidemiology**; University of
+Michigan School of Public Health, Ann Arbor, MI, 2021. Created and
 presented a guest module on high-throughput techniques for measuring
 microbial systems to an audience of approximately 50 Masters-level
 epidemiology students.
@@ -71,10 +70,13 @@ machine learning to a group of approximately 20 students through live
 and interactive programming sessions. Provided instructional support
 during didactic lectures.
 
+**Guest Lecturer Epidemiology 674: Epidemiologic Data Analysis Using R**; 
+University of Michigan School of Public Health, Ann Arbor, MI, 2020. Presented lecture materials and led coding laboratories on statistical programming for epidemiological data analysis to an audience of approximately 20 Masters-level epidemiology students. 
+
 **Guest Lecturer Epidemiology 512: Biological Basis of Human Disease**;
-University of Michigan School of Public Health, Ann Arbor, MI, 2020
+University of Michigan School of Public Health, Ann Arbor, MI, 2020.
 Created and presented a guest module on the role of microbes in gut
-physiology and pathophysiology to an audience of 50 Masters-level
+physiology and pathophysiology to an audience of approximately 50 Masters-level
 epidemiology students.
 
 **Departmental Tutor Epidemiology 824: Advanced Methods in
@@ -109,25 +111,25 @@ analysis.
 
 ## Funding
 
-**2022** "Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes" Integrated Training in Microbial Systems Mini Grant. $10,000
+**2022** "Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes" Integrated Training in Microbial Systems Mini Grant. May 2022 - May 2023. $10,000
 
 **2020** F31 DE029992 "Environmental and Genetic Factors Contributing to
 the Development of the Early-Life Oral Microbiome and its Influence on
 Early Childhood Caries" National Institute of Health; National Institute
-for Dental and Craniofacial Research. September 2020 - May 2023
+for Dental and Craniofacial Research. September 2020 - May 2023. $105,000
 
-**2018** Rackham Graduate School International Travel Grant
+**2018** Rackham Graduate School International Travel Grant. $800
 
 **2018** T32 HG00040 Genome Science Training Program, "National Genome
 Research Institute of the National Institutes for Health" September 2018
-- August 2020
+- August 2020 
 
 **2016** Dean's Scholarship: 100% tuition for two years of graduate
 study, September 2016 - May 2018
 
 **2012** Sydney J and Irene Shipman Scholarship Awardee: 100% tuition,
 room and board for four years of undergraduate study September 2012 -
-May2016
+May 2016
 
 ## Awards
 
@@ -154,8 +156,13 @@ Department of Epidemiology Poster Session
 
 ### Oral presentations
 
+July 2022 Early life assembly of the salivary microbiome is associated with maternal microbiome
+and future dental caries. Beneficial Microbes. Oral presentation. Blostein, F.,  Bhaumik, D., Davis, E., Salzman, E., McNeil, D. W., Shaffer, J.R., Marazita, M. L., Foxman, B. 
+
+March 2022 Does Mothers’ Oral Microbiome Seed Children’s Microbiome Increasing Caries Risk? American Association for Dental, Oral, and Craniofacial Research Annual Meeting. Lightening talk. Authors: Blostein, F.,  Bhaumik, D., Davis, E., Salzman, E., McNeil, D. W., Marazita, M. L., Foxman, B. 
+
 October 2021 Polymethylation Scores for Prenatal Maternal Smoke Exposure
-Persist Until Age 15 and are Detected in Saliva. Poster/Lightening talk.
+Persist Until Age 15 and are Detected in Saliva. International Genetics Epidemiology Society Annual Meeting. Poster/Lightening talk.
 Authors: Blostein, F., Fisher, J., Dou, J. Schenper, L., Notterman, D.
 A., Mitchell, C., Bakulski, K. M.
 
@@ -179,6 +186,8 @@ organizations in Detroit, MI. 30th Annual Meeting for Undergraduate
 Research. Authors: Steiner, J. & Blostein, F.
 
 ### Posters
+
+July 2021 Triangulating the early childhood caries salivary microbiome: a longitudinal case-control study. International Association of Dental Research Annual Meeting. Authors: Blostein, F.; Salzman, E.; McNeil, D.; Marazita, M.; Foxman, B.
 
 October 2020 Do dental plaque and salivary microbiomes have independent
 associations with early childhood caries? A case-control study.
@@ -212,7 +221,7 @@ Conference. Authors: Blostein, F., Assari, S., & Caldwell, C.
 
 ## Skills
 
-**Computer** R, Python, SAS, LATEX, Linux, mothur, QIIME, Microsoft
+**Computer** R, Python, SAS, LATEX, Bash,  Microsoft
 Office
 
 **Language** Spanish -- Proficient
@@ -242,6 +251,8 @@ children in math, science, reading and writing through 826Michigan.
 Scientific Reports
 
 American Journal of Epidemiology
+
+Pediatric Infectious Disease Journal
 
 **Professional Memberships**
 
