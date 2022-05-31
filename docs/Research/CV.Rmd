@@ -5,45 +5,50 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
-  word_document:
-    pandoc_args:
-    - --citeproc
-    - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv
-    - --lua-filter=myname.lua
   pdf_document:
     pandoc_args:
     - --citeproc
     - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv
+    - --csl=apa-cv2
     - --lua-filter=myname.lua
   html_document:
     pandoc_args:
     - --citeproc
     - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv
+    - --csl=apa-cv2
+    - --lua-filter=myname.lua
+  word_document:
+    pandoc_args:
+    - --citeproc
+    - --bibliography=BlosteinCites.bib
+    - --csl=apa-cv2
     - --lua-filter=myname.lua
 editor_options:
   markdown:
     wrap: 72
 ---
 
-::: {style="text-align: right"}
-[![Email](noun_Email_681591.png){width="20px"}](mailto:blostein@umich.edu)
-[blostein\@umich.edu![Phone](noun_Phone_1778896.png){width="20px"}](mailto:blostein@umich.edu)
-[(248) 881-0612](tel:2488810612) [![Github
+# CURRICULUM VITAE
+## Freida A. Blostein
+Updated `r format(Sys.Date(), format='%B %d, %Y')`
+
+::: {style="text-align: left"}
+[![Email](noun_Email_681591.png){width="18px"}](mailto:blostein@umich.edu)[Email: blostein\@umich.edu](mailto:blostein@umich.edu)
+
+[![Phone](noun_Phone_1778896.png){width="18px"}](tel:2488810612)[Phone: (248) 881-0612](tel:2488810612)
+
+[![Github
 URL](githubtiny.png){width="15px"}](https://github.com/blostein)
-[blostein](https://github.com/blostein) [![Twitter
+[Github: blostein](https://github.com/blostein)
+
+[![Twitter
 URL](twittertiny.png){width="15px"}](https://twitter.com/freidablostein)
-[freidablostein](https://twitter.com/freidablostein) [![Website
-URL](noun_website_3977699.png){width="15px"}freidablostein.com](https://freidablostein.com)
+[Twitter: freidablostein](https://twitter.com/freidablostein) 
 
-*Updated* `r Sys.Date()`
+[![Website
+URL](noun_website_3977699.png){width="15px"} Website: freidablostein.com](https://freidablostein.com)
+
 :::
-
-# Freida Blostein
-
-## *Curriculum vitae*
 
 ------------------------------------------------------------------------
 
@@ -51,107 +56,51 @@ URL](noun_website_3977699.png){width="15px"}freidablostein.com](https://freidabl
 
 ## Education
 
-**Doctorate of Philosophy** University of Michigan, Ann Arbor, MI.
-2018-Current. Epidemiologic science.
+**Doctorate of Philosophy** Epidemiologic science, University of Michigan, Ann Arbor, Michigan. Degree expected November 2022.\
+Dissertation: Salivary omics measurements as biomarkers in epidemiological analysis.\
+Advisors: Kelly M. Bakulski & Betsy Foxman.
 
-**Masters of Public Health** University of Michigan, Ann Arbor, MI.
-2016-2018. Epidemiology.
+**Masters of Public Health** Epidemiology, University of Michigan, Ann Arbor, Michigan. 2018. 
 
-**Bachelors of Science** University of Michigan, Ann Arbor, MI.
-2012-2016. Major: Evolutionary Anthropology; Minor: Applied Statistics.
+**Bachelors of Science** with highest distinction Major: Evolutionary Anthropology, Minor: Applied Statistics, University of Michigan, Ann Arbor, Michigan. 2016. 
 
-## Teaching
+## Funding 
 
-**Guest Lecturer Epidemiology 582: Molecular epidemiology**; University of
-Michigan School of Public Health, Ann Arbor, MI, 2021. Created and
-presented a guest module on high-throughput techniques for measuring
-microbial systems to an audience of approximately 50 Masters-level
-epidemiology students.
+**2022** Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes, Integrated Training in Microbial Systems Mini Grant. 2022 - 2023. $10,000, PI: Blostein.
 
-**Teaching Assistant Epidemiology 708: Machine Learning for
-Epidemiological Analysis in the Era of Big Data**; University of
-Michigan School of Public Health, Summer Session in Epidemiology, Ann
-Arbor, MI. 2020 & 2021. Taught R programming for causal inference and
-machine learning to a group of approximately 20 students through live
-and interactive programming sessions. Provided instructional support
-during didactic lectures.
+**2020** F31 DE029992 Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries, National Institute of Health; National Institute for Dental and Craniofacial Research. 2020 - 2023. $105,000, PI: Blostein.
 
-**Guest Lecturer Epidemiology 674: Epidemiologic Data Analysis Using R**; 
-University of Michigan School of Public Health, Ann Arbor, MI, 2020. Presented lecture materials and led coding laboratories on statistical programming for epidemiological data analysis to an audience of approximately 20 Masters-level epidemiology students. 
-
-**Guest Lecturer Epidemiology 512: Biological Basis of Human Disease**;
-University of Michigan School of Public Health, Ann Arbor, MI, 2020.
-Created and presented a guest module on the role of microbes in gut
-physiology and pathophysiology to an audience of approximately 50 Masters-level
-epidemiology students.
-
-**Departmental Tutor Epidemiology 824: Advanced Methods in
-Epidemiology**; University of Michigan School of Public Health,
-Department of Epidemiology, Ann Arbor, MI. 2020-2021 Provided one-on-one
-tutoring on topics in causal inference, epidemiological theory and
-biostatistics to doctoral and masters students in the department of
-Epidemiology.
-
-**Tutor Programming in R for Epidemiologists**; Summer Session in
-Epidemiology, University of Michigan School of Public Health, Ann Arbor,
-MI. 2019 Designed and taught a tailored one-week course on R coding for
-epidemiology to an interested student.
-
-**Instructional Aide Nursing 352: Reproductive Health**; University of
-Michigan School of Nursing, Ann Arbor, MI. 2016-2017. Assisted with
-planning, running and grading of an undergraduate nursing course on
-Women's Health. Created materials and guest lectured for approximately
-80 students.
-
-**Peer Advisor; Undergraduate Research Opportunity Program**, University
-of Michigan, Ann Arbor, MI. 2014-2016 Taught a biweekly seminar on
-research methods, ethics and best practices. Mentored approximately 30
-undergraduate research assistants per year in forming working
-relationships with faculty members across disciplines.
-
-**Teaching Assistant Residential College Core 100: First Year Seminar**;
-University of Michigan, Ann Arbor, MI. 2013-2014. Provided classroom
-assistance in a freshman writing course of approximately 25 students.
-Met individually with students to workshop writing and critical literary
-analysis.
-
-## Funding
-
-**2022** "Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes" Integrated Training in Microbial Systems Mini Grant. May 2022 - May 2023. $10,000
-
-**2020** F31 DE029992 "Environmental and Genetic Factors Contributing to
-the Development of the Early-Life Oral Microbiome and its Influence on
-Early Childhood Caries" National Institute of Health; National Institute
-for Dental and Craniofacial Research. September 2020 - May 2023. $105,000
-
-**2018** Rackham Graduate School International Travel Grant. $800
-
-**2018** T32 HG00040 Genome Science Training Program, "National Genome
-Research Institute of the National Institutes for Health" September 2018
-- August 2020 
-
-**2016** Dean's Scholarship: 100% tuition for two years of graduate
-study, September 2016 - May 2018
-
-**2012** Sydney J and Irene Shipman Scholarship Awardee: 100% tuition,
-room and board for four years of undergraduate study September 2012 -
-May 2016
-
-## Awards
-
-**2021** AAAS/Science Program for Excellence: Recipient of 1-year
-Sponsored American Academy for the Advancement of Science Membership
-
-**2019** Science Communication Fellow, University of Michigan Natural
-History Museum
+**2018** T32 HG00040 Genome Science Training Program, National Genome Research Institute of the National Institutes for Health, 2018 - 2020, PI: Boehnke.
 
 **2018** Fellow; Integrated Training in Microbial Systems, University of
-Michigan
+Michigan. 
 
-**2017** Top Poster, University of Michigan, School of Public Health,
-Department of Epidemiology Poster Session
+## Awards & Honors
+
+**2021** AAAS/Science Program for Excellence: 1-year
+Sponsored American Academy for the Advancement of Science Membership.
+
+**2019** Science Communication Fellow, University of Michigan Natural History Museum
+
+**2018** Rackham Graduate School International Travel Award
+
+**2018** Summa Cum Laude, University of Michigan School of Public Health
+
+**2017** Epidemiology Department Travel Award
+
+**2017** Top Poster, University of Michigan, School of Public Health, Department of Epidemiology Poster Session
+
+**2016-2018** School of Public Health Dean’s Scholarship
+
+**2016** Summa Cum Laude, University of Michigan
 
 **2015** Phi Beta Kappa
+
+**2014, 2015, 2016** James B. Angell Scholar, University of Michigan
+
+**2013, 2014, 2015** University Honors, University of Michigan
+
+**2012-2016** Sydney J and Irene Shipman Scholarship Awardee
 
 ## Publications
 
@@ -162,68 +111,85 @@ Department of Epidemiology Poster Session
 
 ### Oral presentations
 
-July 2022 Early life assembly of the salivary microbiome is associated with maternal microbiome
-and future dental caries. Beneficial Microbes. Oral presentation. Blostein, F.,  Bhaumik, D., Davis, E., Salzman, E., McNeil, D. W., Shaffer, J.R., Marazita, M. L., Foxman, B. 
+**July 2022** Early life assembly of the salivary microbiome is associated with maternal microbiome
+and future dental caries. Beneficial Microbes. Oral presentation.
 
-March 2022 Does Mothers’ Oral Microbiome Seed Children’s Microbiome Increasing Caries Risk? American Association for Dental, Oral, and Craniofacial Research Annual Meeting. Lightening talk. Authors: Blostein, F.,  Bhaumik, D., Davis, E., Salzman, E., McNeil, D. W., Marazita, M. L., Foxman, B. 
+**March 2022** Does Mothers’ Oral Microbiome Seed Children’s Microbiome Increasing Caries Risk? American Association for Dental, Oral, and Craniofacial Research Annual Meeting. Lightening talk.
 
-October 2021 Polymethylation Scores for Prenatal Maternal Smoke Exposure
+**October 2021** Polymethylation Scores for Prenatal Maternal Smoke Exposure
 Persist Until Age 15 and are Detected in Saliva. International Genetics Epidemiology Society Annual Meeting. Poster/Lightening talk.
-Authors: Blostein, F., Fisher, J., Dou, J. Schenper, L., Notterman, D.
-A., Mitchell, C., Bakulski, K. M.
 
-September 2020 Epidemiology: A career for the mathematically minded.
-University of Michigan Dearborn Undergraduate Mathematics Club. Authors:
-Blostein, F.
+**September 2020** Epidemiology: A career for the mathematically minded.
+University of Michigan Dearborn Undergraduate Mathematics Club.
 
-July 2019 A tale of two clusterings: Comparison of clustering techniques
+**July 2019** A tale of two clusterings: Comparison of clustering techniques
 in longitudinally collected salivary samples. University of Michigan
-Microbiome Seminar. Authors: Blostein, F., Bhaumik, D., Davis, E.,
-Salzman, E., Marazita, M.L., & Foxman, B.
+Microbiome Seminar.
 
-October 2017 Improving naloxone distribution in the opioid epidemic: a
+**October 2017** Improving naloxone distribution in the opioid epidemic: a
 cost-effectiveness analysis of naloxone distribution comparing first
 responders and laypeople. 39th Annual Meeting of the Society for Medical
-Decision Making. Authors: Townsend, T., Blostein, F., Doan, T.
-Madson-Olson, S., Galecki, P., & Hutton, D.
+Decision Making.
 
-April 2016 Creating research opportunities with community-based
+**April 2016** Creating research opportunities with community-based
 organizations in Detroit, MI. 30th Annual Meeting for Undergraduate
-Research. Authors: Steiner, J. & Blostein, F.
+Research. 
 
 ### Posters
 
-July 2021 Triangulating the early childhood caries salivary microbiome: a longitudinal case-control study. International Association of Dental Research Annual Meeting. Authors: Blostein, F.; Salzman, E.; McNeil, D.; Marazita, M.; Foxman, B.
+**July 2021** Triangulating the early childhood caries salivary microbiome: a longitudinal case-control study. International Association of Dental Research Annual Meeting. 
 
-October 2020 Do dental plaque and salivary microbiomes have independent
+**October 2020** Do dental plaque and salivary microbiomes have independent
 associations with early childhood caries? A case-control study.
 Exploring Human Host-Microbiome Interactions in Health and Disease 2020.
-Authors: Blostein, F.; Salzman, E.; McNeil, D.; Marazita, M.; Foxman, B.
 
-October 2020 Triangulation of the early childhood caries microbiome
+**October 2020** Triangulation of the early childhood caries microbiome
 using three techniques for high-dimensional microbial data analysis.
-Cold Spring Harbor Laboratory Microbiome Virtual Meeting 2020. Authors:
-Blostein, F.; Salzman, E.; McNeil, D.; Marazita, M.; Foxman, B.
+Cold Spring Harbor Laboratory Microbiome Virtual Meeting 2020. 
 
-November 2018 Herpes virus acquisition in infancy: association with the
+**November 2018** Herpes virus acquisition in infancy: association with the
 salivary microbiome? The International Conference on Molecular
-Epidemiology and Evolutionary Genetics of Infectious Disease. Authors:
-Blostein, F., Foote, S., Salzman, E., Martin, E., Marazita, M.L., &
-Foxman, B.
+Epidemiology and Evolutionary Genetics of Infectious Disease. 
 
-July 2018 Dietary patterns predict dental decay in the U.S.: Results
+**July 2018** Dietary patterns predict dental decay in the U.S.: Results
 from a nationally representative survey. International Association of
-Dental Research 2018. Authors: Blostein, F., Jansen, E., Jones, A.,
-Marazita, M.L., & Foxman, B.
+Dental Research 2018.
 
-July 2018 Candida albicans and caries in post-partum Appalachian women.
-Poster. International Association of Dental Research 2018. Authors:
-Ramadugu, K., Jiang, W., Blostein, F., Salzman, E., Davis, E., Rickard,
-A., Neiswanger, K, McNeil, D., Marazita, M.L., & Foxman, B.
+**July 2018** Candida albicans and caries in post-partum Appalachian women.
+Poster. International Association of Dental Research 2018. 
 
-March 2015 Beyond a white woman's disease: Gender and ethnic differences
+**March 2015** Beyond a white woman's disease: Gender and ethnic differences
 in binge eating disorder among blacks. 14th Annual Michigan Epidemiology
-Conference. Authors: Blostein, F., Assari, S., & Caldwell, C.
+Conference. 
+
+## Teaching
+**All teaching conducted at the University of Michigan, Ann Arbor, Michigan**
+
+### Instructor
+
+**Machine Learning for
+Epidemiological Analysis in the Era of Big Data (EPID 708)**;  2020 & 2021. 20-30 graduate-level students/session, 1 section/year, summer session. Title: Teaching assistant. 
+
+
+**Advanced Methods in
+Epidemiology (EPID 824)**; 2020-2021. 1-2 graduate-level students/session, 1 section/year, fall and winter semester. Title: Departmental tutor.
+
+**Programming in R for Epidemiologists Summer Session in
+Epidemiology**; 2019. 1 graduate-level student/session, 1 section/year, summer session. Title: Departmental tutor.
+
+**Reproductive Health (NURSING 352)**; 2016-2017. 80-100 undergraduate-level students/semester, 1 section/year, fall and winter semester. Title: Instructional aide.
+
+**Undergraduate Research Opportunity Program (UC 280)**; 2014-2016. 25-35 undergraduate-level students/semester, 2 sections/year, fall and winter semester. Title: Peer advisor. 
+
+**First Year Writing Seminar (RCCORE 100)**; 2013-2014. 25-30 undergraduate-level students/section, 1 section/year, fall semester. Title: Teaching assistant.
+
+### Guest lecturing 
+
+**Molecular Epidemiology (EPID 582)**; 2021. 55-85 graduate-level students/session.
+
+**Epidemiologic Data Analysis Using R (EPID 674)**; 2020. 15-20 graduate-level students/session.
+
+**Biological Basis of Human Disease (EPID 512)** 2020. 50-85 graduate-level students/session.
 
 ## Skills
 
@@ -254,11 +220,13 @@ children in math, science, reading and writing through 826Michigan.
 
 **Ad Hoc Reviewer**
 
-Scientific Reports
+*American Journal of Epidemiology*
 
-American Journal of Epidemiology
+*BMC Oral Health*
 
-Pediatric Infectious Disease Journal
+*Pediatric Infectious Disease Journal*
+
+*Scientific Reports*
 
 **Professional Memberships**
 
@@ -268,8 +236,10 @@ International Society of Microbial Ecology
 
 Data Visualization Society
 
-------------------------------------------------------------------------
+Society for Epidemiological Research
 
+------------------------------------------------------------------------
+```{asis, echo=knitr::is_html_output()}
 ::: {style="text-align: right"}
 [![Email](noun_Email_681591.png){width="20px"}](mailto:blostein@umich.edu)
 [blostein\@umich.edu![Phone](noun_Phone_1778896.png){width="20px"}](mailto:blostein@umich.edu)
@@ -279,6 +249,5 @@ URL](githubtiny.png){width="15px"}](https://github.com/blostein)
 URL](twittertiny.png){width="15px"}](https://twitter.com/freidablostein)
 [freidablostein](https://twitter.com/freidablostein) [![Website
 URL](noun_website_3977699.png){width="15px"}freidablostein.com](https://freidablostein.com)
-
-*Updated* `r Sys.Date()`
 :::
+```
