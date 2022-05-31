@@ -5,20 +5,26 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
+  word_document:
+    pandoc_args:
+    - --citeproc
+    - --bibliography=BlosteinCites.bib
+    - --csl=apa-cv
+    - --lua-filter=myname.lua
+  pdf_document:
+    pandoc_args:
+    - --citeproc
+    - --bibliography=BlosteinCites.bib
+    - --csl=apa-cv
+    - --lua-filter=myname.lua
   html_document:
     pandoc_args:
-      - ["--citeproc"]
-      - ["--bibliography=BlosteinCites.bib"]
-      - ["--csl=apa-cv"]
-      - ["--lua-filter=myname.lua"]
-  pdf_document:
-      pandoc_args:
-      - ["--citeproc"]
-      - ["--bibliography=BlosteinCites.bib"]
-      - ["--csl=apa-cv"]
-      - ["--lua-filter=myname.lua"]
-editor_options: 
-  markdown: 
+    - --citeproc
+    - --bibliography=BlosteinCites.bib
+    - --csl=apa-cv
+    - --lua-filter=myname.lua
+editor_options:
+  markdown:
     wrap: 72
 ---
 
