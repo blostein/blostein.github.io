@@ -56,13 +56,13 @@ URL](noun_website_3977699.png){width="15px"} Website: freidablostein.com](https:
 
 ## Education
 
-**Doctorate of Philosophy** Epidemiologic science, University of Michigan, Ann Arbor, Michigan. Degree expected November 2022.\
-Dissertation: Salivary omics measurements as biomarkers in epidemiological analysis.\
+**Doctorate of Philosophy**, Epidemiologic science, University of Michigan, Ann Arbor, Michigan. Degree expected November 2022.\
+Dissertation: Salivary omics measurements as biomarkers in epidemiologic analysis.\
 Advisors: Kelly M. Bakulski & Betsy Foxman.
 
-**Masters of Public Health** Epidemiology, University of Michigan, Ann Arbor, Michigan. 2018. 
+**Masters of Public Health**, Epidemiology, University of Michigan, Ann Arbor, Michigan. 2018. 
 
-**Bachelors of Science** with highest distinction Major: Evolutionary Anthropology, Minor: Applied Statistics, University of Michigan, Ann Arbor, Michigan. 2016. 
+**Bachelors of Science**, Major: Evolutionary Anthropology, Minor: Applied Statistics, University of Michigan, Ann Arbor, Michigan. 2016. 
 
 ## Funding 
 
@@ -73,9 +73,11 @@ Advisors: Kelly M. Bakulski & Betsy Foxman.
 **2018** T32 HG00040 Genome Science Training Program, National Genome Research Institute of the National Institutes for Health, 2018 - 2020, PI: Boehnke.
 
 **2018** Fellow; Integrated Training in Microbial Systems, University of
-Michigan. 
+Michigan. PI: Foxman.
 
 ## Awards & Honors
+
+**2022** Rackham Graduate School National Travel Award
 
 **2021** AAAS/Science Program for Excellence: 1-year
 Sponsored American Academy for the Advancement of Science Membership.
@@ -165,7 +167,7 @@ Conference.
 ## Teaching
 **All teaching conducted at the University of Michigan, Ann Arbor, Michigan**
 
-### Instructor
+### __Instructor__
 
 **Machine Learning for
 Epidemiological Analysis in the Era of Big Data (EPID 708)**;  2020 & 2021. 20-30 graduate-level students/session, 1 section/year, summer session. Title: Teaching assistant. 
@@ -183,7 +185,7 @@ Epidemiology**; 2019. 1 graduate-level student/session, 1 section/year, summer s
 
 **First Year Writing Seminar (RCCORE 100)**; 2013-2014. 25-30 undergraduate-level students/section, 1 section/year, fall semester. Title: Teaching assistant.
 
-### Guest lecturing 
+### __Guest lecturing__ 
 
 **Molecular Epidemiology (EPID 582)**; 2021. 55-85 graduate-level students/session.
 
@@ -236,7 +238,7 @@ International Society of Microbial Ecology
 
 Data Visualization Society
 
-Society for Epidemiological Research
+Society for Epidemiologic Research
 
 ------------------------------------------------------------------------
 ```{asis, echo=knitr::is_html_output()}
