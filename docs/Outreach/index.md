@@ -14,7 +14,7 @@ permalink: /Outreach/
 
 As an graduate student the University of Michigan, I served as a student liaison for the Women in Science and Engineering program. As part of my work I co-developed a lecture and activity on epidemiology and microbiology for approximately 20 middle school students attending a summer science camp.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQH13P51BypyqWePhYQA2MhpaUWKtZkt8bQoheaOwY-37ZxyehAk179bI7WlauBmYC5NBfrwB_vhEY/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQH13P51BypyqWePhYQA2MhpaUWKtZkt8bQoheaOwY-37ZxyehAk179bI7WlauBmYC5NBfrwB_vhEY/embed?start=true&amp;loop=true&amp;delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" data-external="1" style="text-align:center">
 
 </iframe>
 
