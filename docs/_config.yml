@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Freida Blostein, PhD - Postdoctoral fellow at Vanderbilt University Medical Center, Genetic Medicine
+title: Freida Blostein, PhD - Postdoctoral fellow at Vanderbilt University Medical Center
 email: freida.blostein@vumc.org
 description: >- # this means to ignore newlines until "baseurl:"
   "Postdoctoral fellow @ Vanderbilt University Medical Center. Genetic epidemiology & evolutionary medicine" 
@@ -26,7 +26,7 @@ header_pages:
   - About/index.md
   - Research/index.md
   - Teaching/index.md
-  - Outreach and Service/index.md
+  - Outreach+Service/index.md
 # Build settings
 markdown: kramdown
 theme: minima
