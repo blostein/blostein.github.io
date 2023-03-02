@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Freida Blostein - PhD Candidate Epidemiology University of Michigan
-email: blostein@umich.edu
+title: Freida Blostein, PhD - Postdoctoral fellow at Vanderbilt University Medical Center, Genetic Medicine
+email: freida.blostein@vumc.org
 description: >- # this means to ignore newlines until "baseurl:"
-  "PhD candidate @ University of Michigan. Genetic epidemiology & evolutionary medicine" 
+  "Postdoctoral fellow @ Vanderbilt University Medical Center. Genetic epidemiology & evolutionary medicine" 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.freidablostein.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: freidablostein
@@ -26,7 +26,7 @@ header_pages:
   - About/index.md
   - Research/index.md
   - Teaching/index.md
-  - Outreach/index.md
+  - Outreach and Service/index.md
 # Build settings
 markdown: kramdown
 theme: minima
