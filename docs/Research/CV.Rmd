@@ -5,17 +5,17 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
-  html_document:
-    pandoc_args:
-    - --citeproc
-    - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv2
-    - --lua-filter=myname.lua
   pdf_document:
     pandoc_args:
     - --citeproc
     - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv2
+    - --csl=apa-cv3
+    - --lua-filter=myname.lua
+  html_document:
+    pandoc_args:
+    - --citeproc
+    - --bibliography=BlosteinCites.bib
+    - --csl=apa-cv3
     - --lua-filter=myname.lua
   word_document:
     pandoc_args:
@@ -56,26 +56,44 @@ URL](noun_website_3977699.png){width="15px"} Website: freidablostein.com](https:
 
 ## Education
 
-**Doctorate of Philosophy**, Epidemiologic science, University of Michigan, Ann Arbor, Michigan. Degree expected November 2022.\
-Dissertation: Salivary omics measurements as biomarkers in epidemiologic analysis.\
+**Doctorate of Philosophy**, Epidemiologic science, University of Michigan, Ann Arbor, Michigan. September 2018 - Degree expected December 2022.\
+Dissertation: Salivary omics measurements as biomarkers in epidemiological analyses.\
 Advisors: Kelly M. Bakulski & Betsy Foxman.
 
-**Masters of Public Health**, Epidemiology, University of Michigan, Ann Arbor, Michigan. 2018. 
+**Masters of Public Health**, Epidemiology, University of Michigan, Ann Arbor, Michigan. September 2016 - May 2018. 
 
-**Bachelors of Science**, Major: Evolutionary Anthropology, Minor: Applied Statistics, University of Michigan, Ann Arbor, Michigan. 2016. 
+**Bachelors of Science**, Major: Evolutionary Anthropology, Minor: Applied Statistics, University of Michigan, Ann Arbor, Michigan. September 2012 - May 2016. 
 
-## Funding 
+## Publications
 
-**2022** Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes, Integrated Training in Microbial Systems Mini Grant. 2022 - 2023. $10,000, PI: Blostein.
+::: {#refs}
+:::
 
-**2020** F31 DE029992 Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries, National Institute of Health; National Institute for Dental and Craniofacial Research. 2020 - 2023. $105,000, PI: Blostein.
+**In Review**
 
-**2018** T32 HG00040 Genome Science Training Program, National Genome Research Institute of the National Institutes for Health, 2018 - 2020, PI: Boehnke.
+1. **Blostein, F**, Zou, T, Bhaumik, D, Salzman, E, Bakulski, KM, Shaffer, JR, Marazita, ML, Foxman, B. (2022). Bacterial community modifies host genetics effect on early childhood caries. doi: https://doi.org/10.1101/2023.01.11.23284235 *In review*
 
-**2018** Fellow; Integrated Training in Microbial Systems, University of
-Michigan. PI: Foxman.
+2. Bakulski KM, **Blostein FA**, London SJ. 2022. Linking prenatal environment to lifetime health with epigenome-wide association studies. *In review*
+
+3. Byrd, M, Davis, E, **Blostein, F**, Bhaumik, D, Neiswanger, K, Shaffer, J,  McNeil, D, Marazita, M, Foxman, B. (2022). Risk of postpartum dental caries: survival analysis of women in Appalachia. *In review.*
+
+## Grant support 
+
+Pilot award. \hfill Blostein (PI). \hfill 01/01/2022-05/30/2023  
+Integrated Training in Microbial Systems Mini Grant, Total annual direct cost: $10,000   
+**Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes**   
+Role: Principal Investigator.   
+
+NIH F31 DE029992. \hfill Blostein (PI). \hfill  09/01/2020-08/31/2023.   
+NIDCR, Total annual direct cost: $36,360   
+**Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries**   
+Role: Principal Investigator.   
 
 ## Awards & Honors
+
+**2023** Vanderbilt Genomic Medicine Training Program Postdoctoral Fellow (T32 HG008341)
+
+**2022** University of Michigan ProQuest Distinguished Dissertation Award
 
 **2022** Rackham Graduate School National Travel Award
 
@@ -83,6 +101,10 @@ Michigan. PI: Foxman.
 Sponsored American Academy for the Advancement of Science Membership.
 
 **2019** Science Communication Fellow, University of Michigan Natural History Museum
+
+**2018-2020** Genome Science Training Program, National Human Genome Research Institute Predoctoral Fellow (T32 HG00040)
+
+**2018-2022** Integrated Training in Microbial Systems Fellowship
 
 **2018** Rackham Graduate School International Travel Award
 
@@ -104,10 +126,35 @@ Sponsored American Academy for the Advancement of Science Membership.
 
 **2012-2016** Sydney J and Irene Shipman Scholarship Awardee
 
-## Publications
+## Teaching
+**All teaching conducted at the University of Michigan, Ann Arbor, Michigan**
 
-::: {#refs}
-:::
+### __Instructor__
+
+**Machine Learning for
+Epidemiological Analysis in the Era of Big Data (EPID 708)**;  2020 & 2021. 20-30 graduate-level students/session, 1 section/year, summer session. Title: Teaching assistant. 
+
+
+**Advanced Methods in
+Epidemiology (EPID 824)**; 2020-2021. 1-2 graduate-level students/session, 1 section/year, fall and winter semester. Title: Departmental tutor.
+
+**Programming in R for Epidemiologists Summer Session in
+Epidemiology**; 2019. 1 graduate-level student/session, 1 section/year, summer session. Title: Departmental tutor.
+
+**Reproductive Health (NURSING 352)**; 2016-2017. 80-100 undergraduate-level students/semester, 1 section/year, fall and winter semester. Title: Instructional aide.
+
+**Undergraduate Research Opportunity Program (UC 280)**; 2014-2016. 25-35 undergraduate-level students/semester, 2 sections/year, fall and winter semester. Title: Peer advisor. 
+
+**First Year Writing Seminar (RCCORE 100)**; 2013-2014. 25-30 undergraduate-level students/section, 1 section/year, fall semester. Title: Teaching assistant.
+
+### __Guest lecturing__ 
+
+**Molecular Epidemiology (EPID 582)**; 2021. 55-85 graduate-level students/session.
+
+**Epidemiologic Data Analysis Using R (EPID 674)**; 2020. 15-20 graduate-level students/session.
+
+**Biological Basis of Human Disease (EPID 512)** 2020. 50-85 graduate-level students/session.
+
 
 ## Presentations
 
@@ -163,35 +210,6 @@ Poster. International Association of Dental Research 2018.
 **March 2015** Beyond a white woman's disease: Gender and ethnic differences
 in binge eating disorder among blacks. 14th Annual Michigan Epidemiology
 Conference. 
-
-## Teaching
-**All teaching conducted at the University of Michigan, Ann Arbor, Michigan**
-
-### __Instructor__
-
-**Machine Learning for
-Epidemiological Analysis in the Era of Big Data (EPID 708)**;  2020 & 2021. 20-30 graduate-level students/session, 1 section/year, summer session. Title: Teaching assistant. 
-
-
-**Advanced Methods in
-Epidemiology (EPID 824)**; 2020-2021. 1-2 graduate-level students/session, 1 section/year, fall and winter semester. Title: Departmental tutor.
-
-**Programming in R for Epidemiologists Summer Session in
-Epidemiology**; 2019. 1 graduate-level student/session, 1 section/year, summer session. Title: Departmental tutor.
-
-**Reproductive Health (NURSING 352)**; 2016-2017. 80-100 undergraduate-level students/semester, 1 section/year, fall and winter semester. Title: Instructional aide.
-
-**Undergraduate Research Opportunity Program (UC 280)**; 2014-2016. 25-35 undergraduate-level students/semester, 2 sections/year, fall and winter semester. Title: Peer advisor. 
-
-**First Year Writing Seminar (RCCORE 100)**; 2013-2014. 25-30 undergraduate-level students/section, 1 section/year, fall semester. Title: Teaching assistant.
-
-### __Guest lecturing__ 
-
-**Molecular Epidemiology (EPID 582)**; 2021. 55-85 graduate-level students/session.
-
-**Epidemiologic Data Analysis Using R (EPID 674)**; 2020. 15-20 graduate-level students/session.
-
-**Biological Basis of Human Disease (EPID 512)** 2020. 50-85 graduate-level students/session.
 
 ## Skills
 
