@@ -56,9 +56,10 @@ URL](noun_website_3977699.png){width="15px"} Website: freidablostein.com](https:
 
 ## Education
 
-**Doctorate of Philosophy**, Epidemiologic science, University of Michigan, Ann Arbor, Michigan. September 2018 - Degree expected December 2022.\
+**Doctorate of Philosophy**, Epidemiologic science, University of Michigan, Ann Arbor, Michigan. September 2018 - December 2022.\
 Dissertation: Salivary omics measurements as biomarkers in epidemiological analyses.\
-Advisors: Kelly M. Bakulski & Betsy Foxman.
+Advisors: Kelly M. Bakulski & Betsy Foxman.\
+*University of Michigan ProQuest Distinguished Dissertation Award*
 
 **Masters of Public Health**, Epidemiology, University of Michigan, Ann Arbor, Michigan. September 2016 - May 2018. 
 
@@ -69,13 +70,22 @@ Advisors: Kelly M. Bakulski & Betsy Foxman.
 ::: {#refs}
 :::
 
+**In Press**
+
+1. **Blostein, F**, Zou, T, Bhaumik, D, Salzman, E, Bakulski, KM, Shaffer, JR, Marazita, ML, Foxman, B. (2023). Bacterial community modifies host genetics effect on early childhood caries. doi: https://doi.org/10.1101/2023.01.11.23284235 *In press*
+
+
 **In Review**
 
-1. **Blostein, F**, Zou, T, Bhaumik, D, Salzman, E, Bakulski, KM, Shaffer, JR, Marazita, ML, Foxman, B. (2022). Bacterial community modifies host genetics effect on early childhood caries. doi: https://doi.org/10.1101/2023.01.11.23284235 *In review*
+1. Bakulski KM, **Blostein FA**, London SJ. 2023. Linking prenatal environment to lifetime health with epigenome-wide association studies. *In review*
 
-2. Bakulski KM, **Blostein FA**, London SJ. 2022. Linking prenatal environment to lifetime health with epigenome-wide association studies. *In review*
+2. Byrd, M, Davis, E, **Blostein, F**, Bhaumik, D, Neiswanger, K, Shaffer, J,  McNeil, D, Marazita, M, Foxman, B. (2023). Risk of postpartum dental caries: survival analysis of women in Appalachia. *In review*
 
-3. Byrd, M, Davis, E, **Blostein, F**, Bhaumik, D, Neiswanger, K, Shaffer, J,  McNeil, D, Marazita, M, Foxman, B. (2022). Risk of postpartum dental caries: survival analysis of women in Appalachia. *In review.*
+3. Anotonello, G, **Blostein, F**, Bhaumik, D, Davis, E, Gögele,M, Melotti, R, Pramstaller, P, Pattaro, C, Segata, N, Fuchsberger, C, Foxman, B. (2023). Smoking and salivary microbiota: a cross-sectional analysis of an Italian alpine population. *In review* 
+
+4. Higgins Tejera, C, Ware, EB, Hicken, MT, Kobayashi, MT, Wang, H, Adkins-Jackson, PB, **Blostein, F**, Zawistowski, M, Mukherjee, B, Bakulski, KM. The Mediating Role of Systemic Inflammation and Moderating Role of Race/Ethnicity in Racialized Disparities in Incident Dementia: A Decomposition Analysis. (2023). doi:  https://doi.org/10.1101/2023.03.22.23287593 *In review*
+
+5. Wang, H, Bakulski, KM, **Blostein, F**, Porath, BR, Higgins Tejera, C, Ware, EB. Depressive symptoms are associated with DNA methylation age acceleration in a cross-sectional analysis of adults over age 50 in the United States. (2023). doi: https://doi.org/10.1101/2023.04.24.23289052 *In review* 
 
 ## Grant support 
 
@@ -133,7 +143,6 @@ Sponsored American Academy for the Advancement of Science Membership.
 
 **Machine Learning for
 Epidemiological Analysis in the Era of Big Data (EPID 708)**;  2020 & 2021. 20-30 graduate-level students/session, 1 section/year, summer session. Title: Teaching assistant. 
-
 
 **Advanced Methods in
 Epidemiology (EPID 824)**; 2020-2021. 1-2 graduate-level students/session, 1 section/year, fall and winter semester. Title: Departmental tutor.
