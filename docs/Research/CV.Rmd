@@ -5,6 +5,12 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
+  word_document:
+    pandoc_args:
+    - --citeproc
+    - --bibliography=BlosteinCites.bib
+    - --csl=apa-cv2
+    - --lua-filter=myname.lua
   pdf_document:
     pandoc_args:
     - --citeproc
@@ -17,23 +23,22 @@ output:
     - --bibliography=BlosteinCites.bib
     - --csl=apa-cv3
     - --lua-filter=myname.lua
-  word_document:
-    pandoc_args:
-    - --citeproc
-    - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv2
-    - --lua-filter=myname.lua
 editor_options:
   markdown:
     wrap: 72
 ---
+
+```{r, message=F, warning=F, echo=F}
+setwd("~/DavisLab Dropbox/Freida Blostein/blostein.github.io/docs/Research/")
+```
+
 
 # CURRICULUM VITAE
 ## Freida A. Blostein
 Updated `r format(Sys.Date(), format='%B %d, %Y')`
 
 ::: {style="text-align: left"}
-[![Email](noun_Email_681591.png){width="18px"}](mailto:blostein@umich.edu)[Email: blostein\@umich.edu](mailto:blostein@umich.edu)
+[![Email](noun_Email_681591.png){width="18px"}](mailto:blostein@umich.edu)[Email: freida.blostein\@vumc.org](mailto:blostein@umich.edu)
 
 [![Phone](noun_Phone_1778896.png){width="18px"}](tel:2488810612)[Phone: (248) 881-0612](tel:2488810612)
 
@@ -54,6 +59,12 @@ URL](noun_website_3977699.png){width="15px"} Website: freidablostein.com](https:
 
 ------------------------------------------------------------------------
 
+## Positions
+
+**Postdoctoral research fellow** Genetic Medicine, Vanderbilt University Medical Center, Nashville, Tennessee. March 2023-Present
+
+**Postdoctoral research fellow** Institute for Social Research, University of Michigan, Ann Arbor, Michigan. January 2023-March 2023
+
 ## Education
 
 **Doctorate of Philosophy**, Epidemiologic science, University of Michigan, Ann Arbor, Michigan. September 2018 - December 2022.\
@@ -67,34 +78,27 @@ Advisors: Kelly M. Bakulski & Betsy Foxman.\
 
 ## Publications
 
+*denotes equal contribution of authors 
+
+
 ::: {#refs}
 :::
 
-**In Press**
-
-1. **Blostein, F**, Zou, T, Bhaumik, D, Salzman, E, Bakulski, KM, Shaffer, JR, Marazita, ML, Foxman, B. (2023). Bacterial community modifies host genetics effect on early childhood caries. doi: https://doi.org/10.1101/2023.01.11.23284235 *In press*
-
-
 **In Review**
 
-1. Bakulski KM, **Blostein FA**, London SJ. 2023. Linking prenatal environment to lifetime health with epigenome-wide association studies. *In review*
+1. Higgins Tejera, C, Ware, EB, Hicken, MT, Kobayashi, MT, Wang, H, Adkins-Jackson, PB, **Blostein, F**, Zawistowski, M, Mukherjee, B, Bakulski, KM. The Mediating Role of Systemic Inflammation and Moderating Role of Race/Ethnicity in Racialized Disparities in Incident Dementia: A Decomposition Analysis. (2023). doi:  https://doi.org/10.1101/2023.03.22.23287593 *In review*
 
-2. Byrd, M, Davis, E, **Blostein, F**, Bhaumik, D, Neiswanger, K, Shaffer, J,  McNeil, D, Marazita, M, Foxman, B. (2023). Risk of postpartum dental caries: survival analysis of women in Appalachia. *In review*
-
-3. Anotonello, G, **Blostein, F**, Bhaumik, D, Davis, E, Gögele,M, Melotti, R, Pramstaller, P, Pattaro, C, Segata, N, Fuchsberger, C, Foxman, B. (2023). Smoking and salivary microbiota: a cross-sectional analysis of an Italian alpine population. *In review* 
-
-4. Higgins Tejera, C, Ware, EB, Hicken, MT, Kobayashi, MT, Wang, H, Adkins-Jackson, PB, **Blostein, F**, Zawistowski, M, Mukherjee, B, Bakulski, KM. The Mediating Role of Systemic Inflammation and Moderating Role of Race/Ethnicity in Racialized Disparities in Incident Dementia: A Decomposition Analysis. (2023). doi:  https://doi.org/10.1101/2023.03.22.23287593 *In review*
-
-5. Wang, H, Bakulski, KM, **Blostein, F**, Porath, BR, Higgins Tejera, C, Ware, EB. Depressive symptoms are associated with DNA methylation age acceleration in a cross-sectional analysis of adults over age 50 in the United States. (2023). doi: https://doi.org/10.1101/2023.04.24.23289052 *In review* 
+2. Wang, H, Bakulski, KM, **Blostein, F**, Porath, BR, Higgins Tejera, C, Ware, EB. Depressive symptoms are associated with DNA methylation age acceleration in a cross-sectional analysis of adults over age 50 in the United States. (2023). doi: https://doi.org/10.1101/2023.04.24.23289052 *In review* 
+3. Kresge$^*$, H, **Blostein$^*$, F**, Goleva, S., Albiñana, C, Revez, J, Wray, N, Vilhjálmaaon, B, Zhu, Z, McGrath, J, Davis, L. Phenome-wide association study of health outcomes associated with the genetic correlates of 25 hydroxyvitamin D concentration and vitamin D binding protein concentration. (2023). *In review*
 
 ## Grant support 
 
-Pilot award. \hfill Blostein (PI). \hfill 01/01/2022-05/30/2023  
+Pilot award. $~~~~~~~~~~~~~~~~~~~~~~$ Blostein (PI). $~~~~~~~~~~~~~~~~~~~~~~$ 01/01/2022-05/30/2023  
 Integrated Training in Microbial Systems Mini Grant, Total annual direct cost: $10,000   
 **Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes**   
 Role: Principal Investigator.   
 
-NIH F31 DE029992. \hfill Blostein (PI). \hfill  09/01/2020-08/31/2023.   
+NIH F31 DE029992. $~~~~~~~~~~~~~~~~~~~~~~$ Blostein (PI). $~~~~~~~~~~~~~~~~~~~~~~$ 09/01/2020-08/31/2023.   
 NIDCR, Total annual direct cost: $36,360   
 **Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries**   
 Role: Principal Investigator.   
@@ -158,7 +162,7 @@ Epidemiology**; 2019. 1 graduate-level student/session, 1 section/year, summer s
 
 ### __Guest lecturing__ 
 
-**Molecular Epidemiology (EPID 582)**; 2021. 55-85 graduate-level students/session.
+**Molecular Epidemiology (EPID 582)**; 2021. 15-25 graduate-level students/session.
 
 **Epidemiologic Data Analysis Using R (EPID 674)**; 2020. 15-20 graduate-level students/session.
 
@@ -168,6 +172,8 @@ Epidemiology**; 2019. 1 graduate-level student/session, 1 section/year, summer s
 ## Presentations
 
 ### Oral presentations
+
+**July 2023** Electronic health reported-sex as a modifier of type 2 diabetes comorbidities and genetic associations. Center for Precision Medicine, Vanderbilt University Medical Center. Seminar. 
 
 **July 2022** Early life assembly of the salivary microbiome is associated with maternal microbiome
 and future dental caries. Beneficial Microbes. Oral presentation.
@@ -194,6 +200,8 @@ organizations in Detroit, MI. 30th Annual Meeting for Undergraduate
 Research. 
 
 ### Posters
+
+**October 2023** Sex differences in genetic architecture of clinical laboratory tests: A lab wide analysis in the electronic health record. Annual Meeting of the American Society of Human Genetics. 
 
 **July 2021** Triangulating the early childhood caries salivary microbiome: a longitudinal case-control study. International Association of Dental Research Annual Meeting. 
 
@@ -259,13 +267,15 @@ children in math, science, reading and writing through 826Michigan.
 
 **Professional Memberships**
 
-International Association for Dental Research
+American Society for Human Genetics
 
-International Society of Microbial Ecology
+International Genetic Epidemiology Society
 
 Data Visualization Society
 
 Society for Epidemiologic Research
+
+International Association for Dental Research 2018-2021
 
 ------------------------------------------------------------------------
 ```{asis, echo=knitr::is_html_output()}
