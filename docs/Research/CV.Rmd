@@ -5,11 +5,11 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
-  word_document:
+  html_document:
     pandoc_args:
     - --citeproc
     - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv2
+    - --csl=apa-cv3
     - --lua-filter=myname.lua
   pdf_document:
     pandoc_args:
@@ -17,11 +17,11 @@ output:
     - --bibliography=BlosteinCites.bib
     - --csl=apa-cv3
     - --lua-filter=myname.lua
-  html_document:
+  word_document:
     pandoc_args:
     - --citeproc
     - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv3
+    - --csl=apa-cv2
     - --lua-filter=myname.lua
 editor_options:
   markdown:
@@ -89,7 +89,7 @@ Advisors: Kelly M. Bakulski & Betsy Foxman.\
 1. Higgins Tejera, C, Ware, EB, Hicken, MT, Kobayashi, MT, Wang, H, Adkins-Jackson, PB, **Blostein, F**, Zawistowski, M, Mukherjee, B, Bakulski, KM. The Mediating Role of Systemic Inflammation and Moderating Role of Race/Ethnicity in Racialized Disparities in Incident Dementia: A Decomposition Analysis. (2023). doi:  https://doi.org/10.1101/2023.03.22.23287593 *In review*
 
 2. Wang, H, Bakulski, KM, **Blostein, F**, Porath, BR, Higgins Tejera, C, Ware, EB. Depressive symptoms are associated with DNA methylation age acceleration in a cross-sectional analysis of adults over age 50 in the United States. (2023). doi: https://doi.org/10.1101/2023.04.24.23289052 *In review* 
-3. Kresge$^*$, H, **Blostein$^*$, F**, Goleva, S., Albiñana, C, Revez, J, Wray, N, Vilhjálmaaon, B, Zhu, Z, McGrath, J, Davis, L. Phenome-wide association study of health outcomes associated with the genetic correlates of 25 hydroxyvitamin D concentration and vitamin D binding protein concentration. (2023). *In review*
+
 
 ## Grant support 
 
@@ -200,6 +200,8 @@ organizations in Detroit, MI. 30th Annual Meeting for Undergraduate
 Research. 
 
 ### Posters
+
+**April 2024** Sex differences in type 2 diabetes and type 2 diabetes genetic risk comorbidity burdens: A phenome and laboratory-wide study. National Human Genome Research Institute Annual Trainee Meeting. 
 
 **October 2023** Sex differences in genetic architecture of clinical laboratory tests: A lab wide analysis in the electronic health record. Annual Meeting of the American Society of Human Genetics. 
 
