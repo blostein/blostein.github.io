@@ -5,6 +5,12 @@ permalink: /Research/CV
 navigation_weight: 2
 nocite: '@*'
 output:
+  word_document:
+    pandoc_args:
+    - --citeproc
+    - --bibliography=BlosteinCites.bib
+    - --csl=apa-cv2
+    - --lua-filter=myname.lua
   html_document:
     pandoc_args:
     - --citeproc
@@ -17,12 +23,6 @@ output:
     - --bibliography=BlosteinCites.bib
     - --csl=apa-cv3
     - --lua-filter=myname.lua
-  word_document:
-    pandoc_args:
-    - --citeproc
-    - --bibliography=BlosteinCites.bib
-    - --csl=apa-cv2
-    - --lua-filter=myname.lua
 editor_options:
   markdown:
     wrap: 72
@@ -32,15 +32,18 @@ editor_options:
 setwd("~/DavisLab Dropbox/Freida Blostein/blostein.github.io/docs/Research/")
 ```
 
-
 # CURRICULUM VITAE
+
 ## Freida A. Blostein
+
 Updated `r format(Sys.Date(), format='%B %d, %Y')`
 
 ::: {style="text-align: left"}
-[![Email](noun_Email_681591.png){width="18px"}](mailto:blostein@umich.edu)[Email: freida.blostein\@vumc.org](mailto:blostein@umich.edu)
+[![Email](noun_Email_681591.png){width="18px"}Email:
+freida.blostein\@mssm.edu](mailto:freida.blostein@mssm.edu)
 
-[![Phone](noun_Phone_1778896.png){width="18px"}](tel:2488810612)[Phone: (248) 881-0612](tel:2488810612)
+[![Phone](noun_Phone_1778896.png){width="18px"}Phone: (248)
+881-0612](tel:2488810612)
 
 [![Github
 URL](githubtiny.png){width="15px"}](https://github.com/blostein)
@@ -48,11 +51,10 @@ URL](githubtiny.png){width="15px"}](https://github.com/blostein)
 
 [![Twitter
 URL](twittertiny.png){width="15px"}](https://twitter.com/freidablostein)
-[Twitter: freidablostein](https://twitter.com/freidablostein) 
+[Twitter: freidablostein](https://twitter.com/freidablostein)
 
-[![Website
-URL](noun_website_3977699.png){width="15px"} Website: freidablostein.com](https://freidablostein.com)
-
+[![Website URL](noun_website_3977699.png){width="15px"} Website:
+freidablostein.com](https://freidablostein.com)
 :::
 
 ------------------------------------------------------------------------
@@ -61,62 +63,80 @@ URL](noun_website_3977699.png){width="15px"} Website: freidablostein.com](https:
 
 ## Positions
 
-**Postdoctoral research fellow** Genetic Medicine, Vanderbilt University Medical Center, Nashville, Tennessee. March 2023-Present
+**Postdoctoral research fellow** Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York City, New York. July 2025-Present 
 
-**Postdoctoral research fellow** Institute for Social Research, University of Michigan, Ann Arbor, Michigan. January 2023-March 2023
+**Postdoctoral research fellow** Genetic Medicine, Vanderbilt University
+Medical Center, Nashville, Tennessee. March 2023-June 2025
+
+**Postdoctoral research fellow** Institute for Social Research,
+University of Michigan, Ann Arbor, Michigan. January 2023-March 2023
 
 ## Education
 
-**Doctorate of Philosophy**, Epidemiologic science, University of Michigan, Ann Arbor, Michigan. September 2018 - December 2022.\
-Dissertation: Salivary omics measurements as biomarkers in epidemiological analyses.\
+**Doctorate of Philosophy**, Epidemiologic science, University of
+Michigan, Ann Arbor, Michigan. September 2018 - December 2022.\
+Dissertation: Salivary omics measurements as biomarkers in
+epidemiological analyses.\
 Advisors: Kelly M. Bakulski & Betsy Foxman.\
 *University of Michigan ProQuest Distinguished Dissertation Award*
 
-**Masters of Public Health**, Epidemiology, University of Michigan, Ann Arbor, Michigan. September 2016 - May 2018. 
+**Masters of Public Health**, Epidemiology, University of Michigan, Ann
+Arbor, Michigan. September 2016 - May 2018.
 
-**Bachelors of Science**, Major: Evolutionary Anthropology, Minor: Applied Statistics, University of Michigan, Ann Arbor, Michigan. September 2012 - May 2016. 
+**Bachelors of Science**, Major: Evolutionary Anthropology, Minor:
+Applied Statistics, University of Michigan, Ann Arbor, Michigan.
+September 2012 - May 2016.
 
 ## Publications
 
-*denotes equal contribution of authors 
-
+\*denotes equal contribution of authors
 
 ::: {#refs}
 :::
 
-**In Review**
 
-1. Higgins Tejera, C, Ware, EB, Hicken, MT, Kobayashi, MT, Wang, H, Adkins-Jackson, PB, **Blostein, F**, Zawistowski, M, Mukherjee, B, Bakulski, KM. The Mediating Role of Systemic Inflammation and Moderating Role of Race/Ethnicity in Racialized Disparities in Incident Dementia: A Decomposition Analysis. (2023). doi:  https://doi.org/10.1101/2023.03.22.23287593 *In review*
+**Under Review/In Press **
 
-2. Wang, H, Bakulski, KM, **Blostein, F**, Porath, BR, Higgins Tejera, C, Ware, EB. Depressive symptoms are associated with DNA methylation age acceleration in a cross-sectional analysis of adults over age 50 in the United States. (2023). doi: https://doi.org/10.1101/2023.04.24.23289052 *In review* 
+1. Breidenbach, A, **Blostein, F,** Petty, A, Lake, AM, Aldrich, M, Gamazon, E, Tao, R, Below, J, Khankari, NK. McBias: A user-friendly R package and Rshiny application for modeling bias in observational studies. International Journal of Epidemiology. *Under review*
+2. Bose, B, **Blostein, F**, Kim, J, Winters, J,  Actkins, KV, Mayer, D, Congivaram, H, Niarchou, M, Edwards, DV, Davis, LK, Stranger, BE. GXwasR: A Toolkit for Investigating Sex-Differentiated Genetic Effects on Complex Traits. doi: https://doi.org/10.1101/2025.06.10.25329327. *Under review*
 
 
-## Grant support 
+## Grant support
 
-Pilot award. $~~~~~~~~~~~~~~~~~~~~~~$ Blostein (PI). $~~~~~~~~~~~~~~~~~~~~~~$ 01/01/2022-05/30/2023  
-Integrated Training in Microbial Systems Mini Grant, Total annual direct cost: $10,000   
-**Testing the role of metabolic interactions and processes in the formation of cariogenic oral microbiomes**   
-Role: Principal Investigator.   
+Pilot award. $~~~~~~~~~~~~~~~~~~~~~~$ Blostein (PI).
+$~~~~~~~~~~~~~~~~~~~~~~$ 01/01/2022-05/30/2023\
+Integrated Training in Microbial Systems Mini Grant, Total annual direct
+cost: \$10,000\
+**Testing the role of metabolic interactions and processes in the
+formation of cariogenic oral microbiomes**\
+Role: Principal Investigator.
 
-NIH F31 DE029992. $~~~~~~~~~~~~~~~~~~~~~~$ Blostein (PI). $~~~~~~~~~~~~~~~~~~~~~~$ 09/01/2020-08/31/2023.   
-NIDCR, Total annual direct cost: $36,360   
-**Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries**   
-Role: Principal Investigator.   
+NIH F31 DE029992. $~~~~~~~~~~~~~~~~~~~~~~$ Blostein (PI).
+$~~~~~~~~~~~~~~~~~~~~~~$ 09/01/2020-08/31/2023.\
+NIDCR, Total annual direct cost: \$36,360\
+**Environmental and Genetic Factors Contributing to the Development of
+the Early-Life Oral Microbiome and its Influence on Early Childhood
+Caries**\
+Role: Principal Investigator.
 
 ## Awards & Honors
 
-**2023** Vanderbilt Genomic Medicine Training Program Postdoctoral Fellow (T32 HG008341)
+**2023** Vanderbilt Genomic Medicine Training Program Postdoctoral
+Fellow (T32 HG008341)
 
-**2022** University of Michigan ProQuest Distinguished Dissertation Award
+**2022** University of Michigan ProQuest Distinguished Dissertation
+Award
 
 **2022** Rackham Graduate School National Travel Award
 
-**2021** AAAS/Science Program for Excellence: 1-year
-Sponsored American Academy for the Advancement of Science Membership.
+**2021** AAAS/Science Program for Excellence: 1-year Sponsored American
+Academy for the Advancement of Science Membership.
 
-**2019** Science Communication Fellow, University of Michigan Natural History Museum
+**2019** Science Communication Fellow, University of Michigan Natural
+History Museum
 
-**2018-2020** Genome Science Training Program, National Human Genome Research Institute Predoctoral Fellow (T32 HG00040)
+**2018-2020** Genome Science Training Program, National Human Genome
+Research Institute Predoctoral Fellow (T32 HG00040)
 
 **2018-2022** Integrated Training in Microbial Systems Fellowship
 
@@ -126,9 +146,10 @@ Sponsored American Academy for the Advancement of Science Membership.
 
 **2017** Epidemiology Department Travel Award
 
-**2017** Top Poster, University of Michigan, School of Public Health, Department of Epidemiology Poster Session
+**2017** Top Poster, University of Michigan, School of Public Health,
+Department of Epidemiology Poster Session
 
-**2016-2018** School of Public Health Dean’s Scholarship
+**2016-2018** School of Public Health Dean's Scholarship
 
 **2016** Summa Cum Laude, University of Michigan
 
@@ -141,107 +162,146 @@ Sponsored American Academy for the Advancement of Science Membership.
 **2012-2016** Sydney J and Irene Shipman Scholarship Awardee
 
 ## Teaching
-**All teaching conducted at the University of Michigan, Ann Arbor, Michigan**
 
-### __Instructor__
+**All teaching conducted at the University of Michigan, Ann Arbor,
+Michigan**
 
-**Machine Learning for
-Epidemiological Analysis in the Era of Big Data (EPID 708)**;  2020 & 2021. 20-30 graduate-level students/session, 1 section/year, summer session. Title: Teaching assistant. 
+### **Instructor**
 
-**Advanced Methods in
-Epidemiology (EPID 824)**; 2020-2021. 1-2 graduate-level students/session, 1 section/year, fall and winter semester. Title: Departmental tutor.
+**Machine Learning for Epidemiological Analysis in the Era of Big Data
+(EPID 708)**; 2020 & 2021. 20-30 graduate-level students/session, 1
+section/year, summer session. Title: Teaching assistant.
 
-**Programming in R for Epidemiologists Summer Session in
-Epidemiology**; 2019. 1 graduate-level student/session, 1 section/year, summer session. Title: Departmental tutor.
+**Advanced Methods in Epidemiology (EPID 824)**; 2020-2021. 1-2
+graduate-level students/session, 1 section/year, fall and winter
+semester. Title: Departmental tutor.
 
-**Reproductive Health (NURSING 352)**; 2016-2017. 80-100 undergraduate-level students/semester, 1 section/year, fall and winter semester. Title: Instructional aide.
+**Programming in R for Epidemiologists Summer Session in Epidemiology**;
+2019. 1 graduate-level student/session, 1 section/year, summer session.
+Title: Departmental tutor.
 
-**Undergraduate Research Opportunity Program (UC 280)**; 2014-2016. 25-35 undergraduate-level students/semester, 2 sections/year, fall and winter semester. Title: Peer advisor. 
+**Reproductive Health (NURSING 352)**; 2016-2017. 80-100
+undergraduate-level students/semester, 1 section/year, fall and winter
+semester. Title: Instructional aide.
 
-**First Year Writing Seminar (RCCORE 100)**; 2013-2014. 25-30 undergraduate-level students/section, 1 section/year, fall semester. Title: Teaching assistant.
+**Undergraduate Research Opportunity Program (UC 280)**; 2014-2016.
+25-35 undergraduate-level students/semester, 2 sections/year, fall and
+winter semester. Title: Peer advisor.
 
-### __Guest lecturing__ 
+**First Year Writing Seminar (RCCORE 100)**; 2013-2014. 25-30
+undergraduate-level students/section, 1 section/year, fall semester.
+Title: Teaching assistant.
 
-**Molecular Epidemiology (EPID 582)**; 2021. 15-25 graduate-level students/session.
+### **Guest lecturing**
 
-**Epidemiologic Data Analysis Using R (EPID 674)**; 2020. 15-20 graduate-level students/session.
+**Molecular Epidemiology (EPID 582)**; 2021. 15-25 graduate-level
+students/session.
 
-**Biological Basis of Human Disease (EPID 512)** 2020. 50-85 graduate-level students/session.
+**Epidemiologic Data Analysis Using R (EPID 674)**; 2020. 15-20
+graduate-level students/session.
 
+**Biological Basis of Human Disease (EPID 512)** 2020. 50-85
+graduate-level students/session.
 
 ## Presentations
 
 ### Oral presentations
 
-**July 2023** Electronic health reported-sex as a modifier of type 2 diabetes comorbidities and genetic associations. Center for Precision Medicine, Vanderbilt University Medical Center. Seminar. 
+**January 2025** Leveraging clinical laboratory values and genetic data to understand variation in health and disease. Center for Precision
+Medicine, Vanderbilt University Medical Center. Seminar. 
 
-**July 2022** Early life assembly of the salivary microbiome is associated with maternal microbiome
-and future dental caries. Beneficial Microbes. Oral presentation.
+**July 2023** Electronic health reported-sex as a modifier of type 2
+diabetes comorbidities and genetic associations. Center for Precision
+Medicine, Vanderbilt University Medical Center. Seminar.
 
-**March 2022** Does Mothers’ Oral Microbiome Seed Children’s Microbiome Increasing Caries Risk? American Association for Dental, Oral, and Craniofacial Research Annual Meeting. Lightening talk.
+**July 2022** Early life assembly of the salivary microbiome is
+associated with maternal microbiome and future dental caries. Beneficial
+Microbes. Oral presentation.
 
-**October 2021** Polymethylation Scores for Prenatal Maternal Smoke Exposure
-Persist Until Age 15 and are Detected in Saliva. International Genetics Epidemiology Society Annual Meeting. Poster/Lightening talk.
+**March 2022** Does Mothers' Oral Microbiome Seed Children's Microbiome
+Increasing Caries Risk? American Association for Dental, Oral, and
+Craniofacial Research Annual Meeting. Lightening talk.
+
+**October 2021** Polymethylation Scores for Prenatal Maternal Smoke
+Exposure Persist Until Age 15 and are Detected in Saliva. International
+Genetics Epidemiology Society Annual Meeting. Poster/Lightening talk.
 
 **September 2020** Epidemiology: A career for the mathematically minded.
 University of Michigan Dearborn Undergraduate Mathematics Club.
 
-**July 2019** A tale of two clusterings: Comparison of clustering techniques
-in longitudinally collected salivary samples. University of Michigan
-Microbiome Seminar.
+**July 2019** A tale of two clusterings: Comparison of clustering
+techniques in longitudinally collected salivary samples. University of
+Michigan Microbiome Seminar.
 
-**October 2017** Improving naloxone distribution in the opioid epidemic: a
-cost-effectiveness analysis of naloxone distribution comparing first
+**October 2017** Improving naloxone distribution in the opioid epidemic:
+a cost-effectiveness analysis of naloxone distribution comparing first
 responders and laypeople. 39th Annual Meeting of the Society for Medical
 Decision Making.
 
 **April 2016** Creating research opportunities with community-based
 organizations in Detroit, MI. 30th Annual Meeting for Undergraduate
-Research. 
+Research.
 
 ### Posters
 
-**April 2024** Sex differences in type 2 diabetes and type 2 diabetes genetic risk comorbidity burdens: A phenome and laboratory-wide study. National Human Genome Research Institute Annual Trainee Meeting. 
+**November 2024** Evaluating the evolutionary mismatch hypothesis in the electronic health record: A phenome and lab-wide investigation of known malaria variants in >35k individuals of primarily African ancestry in the Vanderbilt University biobank. Annual Meeting of the American Society of Human Genetics
 
-**October 2023** Sex differences in genetic architecture of clinical laboratory tests: A lab wide analysis in the electronic health record. Annual Meeting of the American Society of Human Genetics. 
+**April 2024** Sex differences in type 2 diabetes and type 2 diabetes
+genetic risk comorbidity burdens: A phenome and laboratory-wide study.
+National Human Genome Research Institute Annual Trainee Meeting.
 
-**July 2021** Triangulating the early childhood caries salivary microbiome: a longitudinal case-control study. International Association of Dental Research Annual Meeting. 
+**October 2023** Sex differences in genetic architecture of clinical
+laboratory tests: A lab wide analysis in the electronic health record.
+Annual Meeting of the American Society of Human Genetics.
 
-**October 2020** Do dental plaque and salivary microbiomes have independent
-associations with early childhood caries? A case-control study.
-Exploring Human Host-Microbiome Interactions in Health and Disease 2020.
+**July 2021** Triangulating the early childhood caries salivary
+microbiome: a longitudinal case-control study. International Association
+of Dental Research Annual Meeting.
+
+**October 2020** Do dental plaque and salivary microbiomes have
+independent associations with early childhood caries? A case-control
+study. Exploring Human Host-Microbiome Interactions in Health and
+Disease 2020.
 
 **October 2020** Triangulation of the early childhood caries microbiome
 using three techniques for high-dimensional microbial data analysis.
-Cold Spring Harbor Laboratory Microbiome Virtual Meeting 2020. 
+Cold Spring Harbor Laboratory Microbiome Virtual Meeting 2020.
 
-**November 2018** Herpes virus acquisition in infancy: association with the
-salivary microbiome? The International Conference on Molecular
-Epidemiology and Evolutionary Genetics of Infectious Disease. 
+**November 2018** Herpes virus acquisition in infancy: association with
+the salivary microbiome? The International Conference on Molecular
+Epidemiology and Evolutionary Genetics of Infectious Disease.
 
 **July 2018** Dietary patterns predict dental decay in the U.S.: Results
 from a nationally representative survey. International Association of
 Dental Research 2018.
 
-**July 2018** Candida albicans and caries in post-partum Appalachian women.
-Poster. International Association of Dental Research 2018. 
+**July 2018** Candida albicans and caries in post-partum Appalachian
+women. Poster. International Association of Dental Research 2018.
 
-**March 2015** Beyond a white woman's disease: Gender and ethnic differences
-in binge eating disorder among blacks. 14th Annual Michigan Epidemiology
-Conference. 
+**March 2015** Beyond a white woman's disease: Gender and ethnic
+differences in binge eating disorder among blacks. 14th Annual Michigan
+Epidemiology Conference.
 
-## Skills
+<!-- ## Skills
 
-**Computer** R, Python, SAS, LATEX, Bash,  Microsoft
-Office
+**Computer** R, Python, SAS, LATEX, Bash, Microsoft Office
 
-**Language** Spanish -- Proficient
+**Language** Spanish -- Proficient -->
 
 ## Service & Science Communication
 
-**Statistics in the Community volunteer** 2021-2022 Served as a team analyst for Statistics in the Community, a community outreach program where graduate students provide free expertise on data organization, analysis and interpretation to non-profit governmental and community organizations. 
+**Statistics in the Community volunteer** 2021-2022 Served as a team
+analyst for Statistics in the Community, a community outreach program
+where graduate students provide free expertise on data organization,
+analysis and interpretation to non-profit governmental and community
+organizations.
 
-**Women in Science and Engineering Student Programming Board** 2021-2022 Served as a student liaison for the Women in Science and Engineering program at the University of Michigan. Designed and hosted a microbiology- and epidemiology-themed session for approximately 20 middle-school students at a summer science camp hosted by Women in Science and Engineering. 
+**Women in Science and Engineering Student Programming Board** 2021-2022
+Served as a student liaison for the Women in Science and Engineering
+program at the University of Michigan. Designed and hosted a
+microbiology- and epidemiology-themed session for approximately 20
+middle-school students at a summer science camp hosted by Women in
+Science and Engineering.
 
 **Podcast Host** Developed, wrote and produced a 3 episode miniseries
 entitled Get the Dirt on 'Crobecast: an ITiMS podcast on microbial
@@ -280,6 +340,7 @@ Society for Epidemiologic Research
 International Association for Dental Research 2018-2021
 
 ------------------------------------------------------------------------
+
 ```{asis, echo=knitr::is_html_output()}
 ::: {style="text-align: right"}
 [![Email](noun_Email_681591.png){width="20px"}](mailto:blostein@umich.edu)
