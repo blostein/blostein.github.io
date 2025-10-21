@@ -1,8 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: "About"
+permalink: /About/
 ---
 
 I'm a postdoctoral fellow at the Icahn School of Medicine at Mount Sinai. I completed my PhD in Epidemiology at the University of Michigan School of Public Health. My work broadly uses high-dimensional omics measurements as markers and mediators of environment-disease relationships.
