@@ -10,4 +10,4 @@ I use tools and techniques from epidemiology, statistical genetics, and bioinfor
 
 [Download the pdf of my CV here](https://freidablostein.com/Research/CV.pdf)
 
-<img align="right" src="./assets/images/aboutimg.png">
+<img align="right" src="blostein_freida.JPG">
