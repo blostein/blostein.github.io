@@ -11,13 +11,13 @@ output:
     - --bibliography=BlosteinCites.bib
     - --csl=apa-cv2
     - --lua-filter=myname.lua
-  html_document:
+  pdf_document:
     pandoc_args:
     - --citeproc
     - --bibliography=BlosteinCites.bib
     - --csl=apa-cv3
     - --lua-filter=myname.lua
-  pdf_document:
+  html_document:
     pandoc_args:
     - --citeproc
     - --bibliography=BlosteinCites.bib
@@ -28,8 +28,8 @@ editor_options:
     wrap: 72
 ---
 
-```{r, message=F, warning=F, echo=F}
-setwd("~/DavisLab Dropbox/Freida Blostein/blostein.github.io/docs/Research/")
+```{r, message=F, warning=F, echo=F, eval=F}
+setwd("~/DavisLab Dropbox/blostein.github.io/docs/Research/")
 ```
 
 # CURRICULUM VITAE
@@ -95,10 +95,12 @@ September 2012 - May 2016.
 :::
 
 
-**Under Review/In Press **
+**Under Review**
 
-1. Breidenbach, A, **Blostein, F,** Petty, A, Lake, AM, Aldrich, M, Gamazon, E, Tao, R, Below, J, Khankari, NK. McBias: A user-friendly R package and Rshiny application for modeling bias in observational studies. International Journal of Epidemiology. *Under review*
+1. Breidenbach, A, **Blostein, F,** Petty, A, Lake, AM, Aldrich, M, Gamazon, E, Tao, R, Below, J, Khankari, NK. McBias: A user-friendly R package and Rshiny application for modeling bias in observational studies.  *Under review*
 2. Bose, B, **Blostein, F**, Kim, J, Winters, J,  Actkins, KV, Mayer, D, Congivaram, H, Niarchou, M, Edwards, DV, Davis, LK, Stranger, BE. GXwasR: A Toolkit for Investigating Sex-Differentiated Genetic Effects on Complex Traits. doi: https://doi.org/10.1101/2025.06.10.25329327. *Under review*
+3. Singh, K\*, **Blostein, F,\* **, Wells, QS, Hodges, EC, Cox, NJ, Davis, L.  Antidepressants are associated with decreased white blood cell counts beyond the effect of statins in individuals with co-morbid depression and coronary artery disease: A longitudinal analysis in the Vanderbilt University Medical Center and All of Us cohorts.  doi: https://doi.org/10.1101/2025.10.13.25337946. *Under review*. 
+4. Blostein, F. & Hirbo, J. Prospect of improving clinical decisions informed by genetic variations in the population. *Under review*
 
 
 ## Grant support
