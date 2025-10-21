@@ -1,6 +1,6 @@
 ---
-title: "Outreach & Service"
 layout: page
+title: "Outreach & Service"
 permalink: /Outreach/
 ---
 
