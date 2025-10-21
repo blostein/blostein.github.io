@@ -1,6 +1,6 @@
 ---
+title: "Research"
 layout: researchdefault
-title: Research
 permalink: /Research/
 navigation_weight: 1
 ---
@@ -22,12 +22,11 @@ My doctoral training has incorporated courses in biostatistics, epidemiology and
 
 ## Current support
 
+## Previous support
 
 T32 HG008341 "Vanderbilt Genomic Medicine Training Program" (Postdoctoral Fellow). National Institute of Health; National Human Genome Research Institute. 
 
-## Previous support c
-
 F31 DE029992 "Environmental and Genetic Factors Contributing to the Development of the Early-Life Oral Microbiome and its Influence on Early Childhood Caries" PI: Blostein, Freida. National Institute of Health; National Institute for Dental and Craniofacial Research. $35,128 per year for September 2020-December 2022
 
-T32 	5T32HG000040-25 "University of Michigan Training Program in Genomic Science" PI: Boehnke, Michael. National Institute of Health; National Human Genome Research Institute. September 2018-August 2020
+T32 5T32HG000040 "University of Michigan Training Program in Genomic Science" PI: Boehnke, Michael. National Institute of Health; National Human Genome Research Institute. September 2018-August 2020
  
