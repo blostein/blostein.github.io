@@ -31,8 +31,6 @@ header_pages:
 # Build settings
 markdown: kramdown
 theme: minima
-minima:
-  skin: dark
 plugins:
   - jekyll-feed
   - jekyll-menus
