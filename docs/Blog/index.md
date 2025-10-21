@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Blog
+layout: page
+title: "Blog"
+permalink: /Blog/
 ---
 
 <h1>{{ page.title }}</h1>
