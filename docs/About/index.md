@@ -1,17 +1,14 @@
 ---
-layout: page
-title: About
-css: style.css
-permalink: /About/
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 ---
-<link href="style.css" rel="stylesheet">
 
-<p align="right">
-<div class="image-cropper">
-  <img src="../assets/images/blostein_freida.jpg" alt="avatar" class="profile-pic">
-</div>
-</p> I'm postdoctoral fellow in the Department of AI and Human Health at the Icahn School of Medicine at Mount Sinai. My work broadly uses high-dimensional omics measurements to understand complex, multifactorial disease.
+I'm a postdoctoral fellow at the Icahn School of Medicine at Mount Sinai. I completed my PhD in Epidemiology at the University of Michigan School of Public Health. My work broadly uses high-dimensional omics measurements as markers and mediators of environment-disease relationships.
 
-My doctoral and postdoctoral training has included work in epidemiology, statistical genetics, and bioinformatics. 
+I use tools and techniques from epidemiology, statistical genetics, and bioinformatics to understand complex human diseases. 
 
-I also love reading, gardening, & dogs.
+[Download the pdf of my CV here](https://freidablostein.com/Research/CV.pdf)
+
+<img align="right" src="./assets/images/aboutimg.png">
