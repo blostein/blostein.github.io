@@ -3,8 +3,6 @@ layout: page
 title: "Teaching"
 permalink: /Teaching/
 ---
-## Teaching
-
 **Guest Lecturer Epidemiology 512: Biological Basis of Human Disease**; University of Michigan School of Public Health, Ann Arbor, MI, 2020
 Created and presented a guest module on the role of microbes in gut physiology and pathophysiology to an audience of 50 Masters-level epidemiology students.
 
@@ -23,8 +21,7 @@ Designed and taught a tailored one-week course on R coding for epidemiology to a
 
 
 **Instructional Aide Nursing 352: Reproductive Health**; University of Michigan School of Nursing, Ann Arbor, MI. 2016-2017. 
-Assisted with planning, running and grading of an undergraduate nursing course on Women’s Health. Created materials and guest lectured for approximately 80 students. 
-
+Assisted with planning, running and grading of an undergraduate nursing course on Women’s Health. Created materials and guest lectured for approximately 80 students.
 
 **Peer Advisor; Undergraduate Research Opportunity Program**, University of Michigan, Ann Arbor, MI. 2014-2016 
 Taught a biweekly seminar on research methods, ethics and best practices. Mentored approximately 30 undergraduate research assistants per year in forming working relationships with faculty members across disciplines. 
